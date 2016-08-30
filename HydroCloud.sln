@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatService", "ChatService\ChatService.csproj", "{4D0BBCCE-D86B-4714-A635-F579216209C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestDispatcher", "RequestDispatcher\RequestDispatcher.csproj", "{0676C160-7B21-4F1D-A8A1-D6FC254F878B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQGroupService", "QQGroupService\QQGroupService.csproj", "{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{012E2E7F-46B2-43C1-8BDF-5472E9D9EABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProviderModule", "DataProviderModule\DataProviderModule.csproj", "{3C118745-CF27-4869-8ACC-89C58BE2738A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainLoader", "ChainLoader\ChainLoader.csproj", "{920B2116-C839-43C0-9A14-B47AAD87AB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012E2E7F-46B2-43C1-8BDF-5472E9D9EABD}.Debug|x86.ActiveCfg = Debug|x86
+		{012E2E7F-46B2-43C1-8BDF-5472E9D9EABD}.Debug|x86.Build.0 = Debug|x86
+		{012E2E7F-46B2-43C1-8BDF-5472E9D9EABD}.Release|x86.ActiveCfg = Release|x86
+		{012E2E7F-46B2-43C1-8BDF-5472E9D9EABD}.Release|x86.Build.0 = Release|x86
+		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Debug|x86.Build.0 = Debug|Any CPU
+		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Release|x86.ActiveCfg = Release|Any CPU
+		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Release|x86.Build.0 = Release|Any CPU
+		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Debug|x86.Build.0 = Debug|Any CPU
+		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Release|x86.ActiveCfg = Release|Any CPU
+		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Release|x86.Build.0 = Release|Any CPU
+		{4D0BBCCE-D86B-4714-A635-F579216209C6}.Debug|x86.ActiveCfg = Debug|x86
+		{4D0BBCCE-D86B-4714-A635-F579216209C6}.Debug|x86.Build.0 = Debug|x86
+		{4D0BBCCE-D86B-4714-A635-F579216209C6}.Release|x86.ActiveCfg = Release|x86
+		{4D0BBCCE-D86B-4714-A635-F579216209C6}.Release|x86.Build.0 = Release|x86
+		{920B2116-C839-43C0-9A14-B47AAD87AB5C}.Debug|x86.ActiveCfg = Debug|x86
+		{920B2116-C839-43C0-9A14-B47AAD87AB5C}.Debug|x86.Build.0 = Debug|x86
+		{920B2116-C839-43C0-9A14-B47AAD87AB5C}.Release|x86.ActiveCfg = Release|x86
+		{920B2116-C839-43C0-9A14-B47AAD87AB5C}.Release|x86.Build.0 = Release|x86
+		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Debug|x86.ActiveCfg = Debug|x86
+		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Debug|x86.Build.0 = Debug|x86
+		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Release|x86.ActiveCfg = Release|x86
+		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

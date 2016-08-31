@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProviderModule", "DataP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainLoader", "ChainLoader\ChainLoader.csproj", "{920B2116-C839-43C0-9A14-B47AAD87AB5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduOpenApiModule", "BaiduOpenApiModule\BaiduOpenApiModule.csproj", "{C528BC94-9DAA-47E9-B7BC-D2458AD9863C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartQQLib", "SmartQQLib\SmartQQLib.csproj", "{23CDCC8F-0BB6-4B1B-929C-47CAEF2BBF60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QQBot", "QQBot\QQBot.csproj", "{194CD846-DD2D-4E5A-8031-1F8273AEF695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +33,14 @@ Global
 		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Debug|x86.Build.0 = Debug|Any CPU
 		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Release|x86.ActiveCfg = Release|Any CPU
 		{0676C160-7B21-4F1D-A8A1-D6FC254F878B}.Release|x86.Build.0 = Release|Any CPU
+		{194CD846-DD2D-4E5A-8031-1F8273AEF695}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{194CD846-DD2D-4E5A-8031-1F8273AEF695}.Debug|x86.Build.0 = Debug|Any CPU
+		{194CD846-DD2D-4E5A-8031-1F8273AEF695}.Release|x86.ActiveCfg = Release|Any CPU
+		{194CD846-DD2D-4E5A-8031-1F8273AEF695}.Release|x86.Build.0 = Release|Any CPU
+		{23CDCC8F-0BB6-4B1B-929C-47CAEF2BBF60}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{23CDCC8F-0BB6-4B1B-929C-47CAEF2BBF60}.Debug|x86.Build.0 = Debug|Any CPU
+		{23CDCC8F-0BB6-4B1B-929C-47CAEF2BBF60}.Release|x86.ActiveCfg = Release|Any CPU
+		{23CDCC8F-0BB6-4B1B-929C-47CAEF2BBF60}.Release|x86.Build.0 = Release|Any CPU
 		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Debug|x86.Build.0 = Debug|Any CPU
 		{3C118745-CF27-4869-8ACC-89C58BE2738A}.Release|x86.ActiveCfg = Release|Any CPU
@@ -43,5 +57,9 @@ Global
 		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Debug|x86.Build.0 = Debug|x86
 		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Release|x86.ActiveCfg = Release|x86
 		{AA85D8E2-C7DE-44D0-B02F-BD3F98D8971A}.Release|x86.Build.0 = Release|x86
+		{C528BC94-9DAA-47E9-B7BC-D2458AD9863C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C528BC94-9DAA-47E9-B7BC-D2458AD9863C}.Debug|x86.Build.0 = Debug|Any CPU
+		{C528BC94-9DAA-47E9-B7BC-D2458AD9863C}.Release|x86.ActiveCfg = Release|Any CPU
+		{C528BC94-9DAA-47E9-B7BC-D2458AD9863C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
